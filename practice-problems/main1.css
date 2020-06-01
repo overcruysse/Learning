@@ -1,0 +1,39 @@
+#highlight  {
+    color: red;
+}
+
+.emphasize  {
+    color: green;
+}
+
+[target]{
+    border: 1px solid red;
+}
+
+a:link {
+    color:red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:active{
+    color: yellow;
+}
+
+p:first-letter {
+    font-size: 32px;
+}
+
+p:first-line {
+    color: red;
+}
+
+div p {
+    color: red;
+}
